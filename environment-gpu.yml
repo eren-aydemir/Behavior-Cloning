@@ -1,4 +1,4 @@
-name: carnd-term1
+name: CarND-Behaviour-Clonning
 channels:
     - https://conda.anaconda.org/menpo
     - conda-forge
